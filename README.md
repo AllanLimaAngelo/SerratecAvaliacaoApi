@@ -3,12 +3,12 @@
 # API Spring Boot Java
 
 ## Descrição
-Este é um projeto de API desenvolvido em Spring Boot, utilizando Java. A API foi construída para fornecer funcionalidades específicas, como (insira aqui a descrição das principais funcionalidades da API).
+Este é um projeto de API desenvolvido em Spring Boot, utilizando Java.
 
 ## Pré-requisitos
-- JDK 8 ou superior instalado
+- JDK 17 superior instalado
 - Maven (para compilar e executar o projeto)
-- IDE de sua preferência (recomendado: IntelliJ IDEA, Eclipse)
+- IDE de sua preferência (Eclipse)
 
 ## Instalação e execução
 1. Clone o repositório para o seu ambiente local:
